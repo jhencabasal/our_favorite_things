@@ -10,5 +10,5 @@
 
 # Hi I'm Emma, my favorite food is pizza.
 
-# Hi I'm Hannah, my favourite food is also pizza!
+# Hi I'm Hannah, my favourite food is apples!
 
